@@ -1,2 +1,2 @@
 # bootstrap
-Практика верстки на bottstrap v3.3.7
+Практика верстки на bootstrap v3.3.7
