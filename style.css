@@ -1,0 +1,73 @@
+body {
+	background-color: #D5D5D5;	
+}
+
+#carousel .carousel-inner img {
+	width: 100%;
+	height: 100vh;
+}
+
+#carousel .carousel-inner a {
+	color: #fff;
+}
+
+#carousel .carousel-inner a:hover {
+	text-decoration: none;
+	color: #bbb;
+}
+
+#carousel .carousel-inner a:focus {
+	text-decoration: none;
+}
+
+.fix-nav {
+	z-index: 9999; 
+	position: fixed; 
+	left: 0; top: 0; width: 100%;	
+}
+
+.displaying {
+	height: 51px;
+	width: 100%;
+}
+
+#navbar {
+	margin-bottom: 0;	
+}
+
+.background-content {
+	background: fixed url(../images/content.jpg) center no-repeat;
+	background-size: cover;
+	height: 100vh;	
+}
+
+.background-content-2 {
+	background: fixed url(../images/content_2.jpg) center no-repeat;
+	background-size: cover;
+	height: 100vh;	
+}
+
+.believe {
+	font-weight: bold;
+	font-style: italic;
+	color: #5B2461;
+	margin: 40px 0 40px 0;
+}
+
+.videos {
+	margin: 50px;	
+}
+
+.videos iframe {
+	height: 250px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.word-wrap {
+	word-wrap: break-word;	
+}
+
+.marg {
+	margin: 30px;	
+}
